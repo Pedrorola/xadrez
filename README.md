@@ -204,26 +204,6 @@ for (int vertical = 1; vertical <= movimentos_v; vertical++) {
 - [ ] Adicionar testes unitários
 - [ ] Criar versão em outras linguagens
 
-## 📋 Roadmap
-
-### Versão 1.0 ✅
-- [x] Módulo Novato (estruturas básicas)
-- [x] Módulo Aventureiro (loops aninhados)
-- [x] Módulo Mestre (recursividade + loops complexos)
-- [x] Documentação completa
-
-### Versão 2.0 🚧
-- [ ] Interface interativa
-- [ ] Tabuleiro visual ASCII
-- [ ] Validação de movimentos
-- [ ] Sistema de pontuação
-
-### Versão 3.0 🔮
-- [ ] Modo multiplayer
-- [ ] IA básica
-- [ ] Salvamento de partidas
-- [ ] Interface gráfica
-
 ## 📊 Estatísticas do Projeto
 
 - **Linhas de Código**: ~400
